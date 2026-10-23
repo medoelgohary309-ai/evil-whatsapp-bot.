@@ -1,0 +1,13 @@
+{
+  "name": "evil-whatsapp-bot",
+  "version": "1.0.0",
+  "main": "evil-whatsapp-bot.js",
+  "dependencies": {
+    "whatsapp-web.js": ".23.0",
+    "qrcode-terminal": ".12.0",
+    "axios": ".6.0"
+  },
+  "scripts": {
+    "start": "node evil-whatsapp-bot.js"
+  }
+}
